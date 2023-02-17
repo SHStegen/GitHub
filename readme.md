@@ -1,2 +1,3 @@
 # GitHub
 Redigering
+Eg slit
